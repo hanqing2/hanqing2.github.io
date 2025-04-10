@@ -30,7 +30,7 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 - *2025.03*: &nbsp;🎉🎉 I will participate in the [University of Notre Dame](https://www.nd.edu/)'s [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://csirlab.nd.edu/).
 - *2024.11*: &nbsp;🎉🎉 I am awarded Zhejiang Provincial Government Scholarship!
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - Zhejiang Provincial Government Scholarship, *2024*
 - Zhejiang University Scholarship - Second Prize, *2024*
 - Outstanding students of Zhejiang University, *2023-2024*
@@ -38,5 +38,8 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 - Second prize of Chinese Mathematics Competition (CMC) in Zhejiang Province, *2023.11*
 - Zhejiang University Scholarship - Third Prize, *2023*
 
-# 📖 Educations
-- *2022.09 - 2026.06 (expected)*, Zhejiang University, Hangzhou, China, B.Eng. in Microelectronics Science and Engineering
+# 🎓 Educations
+- *2022.09 - 2026.06 (expected)*, Zhejiang University, Hangzhou, China, B.Eng. in Microelectronics Science and Engineering (GPA: 3.90/4.3)
+
+# 🏃 Specialties and Hobbies
+- ⚽ soccer: National second-class soccer referee
