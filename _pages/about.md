@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a junior undergraduate student majoring in Microelectronics Science and Engineering in College of Information Science and Electronic Engineering, [Zhejiang University](https://www.zju.edu.cn/).
+I am a junior undergraduate student majoring in Microelectronics Science and Engineering in [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
-I am currently a research intern at [IDEA Lab](https://zju-idea.github.io/) in Hangzhou, China, advised by [**Prof. Xunzhao Yin**](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and [Prof. Cheng Zhuo](https://person.zju.edu.cn/chengzhuo). I am very fortunate to be mentored by Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
+I am currently a research intern at [IDEA Lab](https://zju-idea.github.io/) in Hangzhou, China, advised by [**Prof. Xunzhao Yin**](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and [Prof. Cheng Zhuo](https://scholar.google.com/citations?user=-XSbEFAAAAAJ). I am very fortunate to be mentored by Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
 
 My research interests include (1) circuit and architecture design with both CMOS and emerging technologies, and (2) digital, mixed-signal, and mixed-mode cognitive circuit design.
 
@@ -27,7 +27,7 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 I will participate in the University of Notre Dame's [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://csirlab.nd.edu/).
+- *2025.03*: &nbsp;🎉🎉 I will participate in the [University of Notre Dame](https://www.nd.edu/)'s [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://csirlab.nd.edu/).
 - *2024.11*: &nbsp;🎉🎉 I am awarded Zhejiang Provincial Government Scholarship!
 
 # 🎖 Honors and Awards
