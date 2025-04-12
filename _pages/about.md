@@ -39,7 +39,7 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 - Zhejiang University Scholarship - Third Prize, *2023*
 
 # 🎓 Educations
-- *2022.09 - 2026.06 (expected)*, Zhejiang University, Hangzhou, China, B.Eng. in Microelectronics Science and Engineering (GPA: 3.90/4.3)
+- *2022.09 - 2026.06 (expected)*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, China
 
 # 🏃 Specialties and Hobbies
 - ⚽ soccer: National second-class soccer referee
