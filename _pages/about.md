@@ -30,6 +30,18 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 - *2025.03*: &nbsp;🎉🎉 I will participate in the [University of Notre Dame](https://www.nd.edu/)'s [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://csirlab.nd.edu/).
 - *2024.11*: &nbsp;🎉🎉 I am awarded Zhejiang Provincial Government Scholarship!
 
+# Experience
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="images/zju.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
+    <div style="margin: 0;">
+        <h3 style="margin: 0;">IDEA Lab, Zhejiang University, Hangzhou, China</h3>
+        <p style="margin: 0;">Research Intern</p>
+        <p style="margin: 0;">Advisor: [**Prof. Xunzhao Yin**](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and [Prof. Cheng Zhuo](https://scholar.google.com/citations?user=-XSbEFAAAAAJ)</p>
+        <p style="margin: 0;">Mentor: [Yu Qian](https://jerry-chandler.github.io/)</p>
+        <p style="margin: 0;">Aug 2024 - Now</p>
+    </div>
+</div>
+
 # 🎖️ Honors and Awards
 - Zhejiang Provincial Government Scholarship, *2024*
 - Zhejiang University Scholarship - Second Prize, *2024*
