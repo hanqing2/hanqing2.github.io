@@ -27,7 +27,7 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 I will participate in the [University of Notre Dame](https://www.nd.edu/)'s [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://csirlab.nd.edu/).
+- *2025.03*: &nbsp;🎉🎉 I will participate in the [University of Notre Dame](https://www.nd.edu/)'s [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://scholar.google.com/citations?user=zYI2MtEAAAAJ).
 - *2024.11*: &nbsp;🎉🎉 I am awarded Zhejiang Provincial Government Scholarship!
 
 # 🔎 Experience
