@@ -36,8 +36,8 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
     <div style="margin: 0;">
         <h3 style="margin: 0;">IDEA Lab, Zhejiang University, Hangzhou, China</h3>
         <p style="margin: 0;">Research Intern</p>
-        <p style="margin: 0;">Advisor: [**Prof. Xunzhao Yin**](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and [Prof. Cheng Zhuo](https://scholar.google.com/citations?user=-XSbEFAAAAAJ)</p>
-        <p style="margin: 0;">Mentor: [Yu Qian](https://jerry-chandler.github.io/)</p>
+        <p style="margin: 0;">Advisor: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank"><strong>Prof. Xunzhao Yin</strong></a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
+        <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
         <p style="margin: 0;">Aug 2024 - Now</p>
     </div>
 </div>
