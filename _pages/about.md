@@ -35,10 +35,9 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
     <img src="images/zju.png" alt="School Logo" style="width: 80px; height: auto; margin-right: 16px;">
     <div style="margin: 0;">
         <h3 style="margin: 0;">IDEA Lab, Zhejiang University, <span style="font-weight: normal;">Hangzhou, China</span></h3>
-        <p style="margin: 0;">Research Intern</p>
+        <p style="margin: 0;">Research Intern, Aug 2024 - Present</p>
         <p style="margin: 0;">Advisor: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank"><strong>Prof. Xunzhao Yin</strong></a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
         <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
-        <p style="margin: 0;">Aug 2024 - Present</p>
     </div>
 </div>
 
@@ -50,8 +49,9 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 - Second prize of Chinese Mathematics Competition (CMC) in Zhejiang Province, *2023.11*
 - Zhejiang University Scholarship - Third Prize, *2023*
 
-# 🎓 Educations
+# 🎓 Education
 - *2022.09 - 2026.06 (expected)*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, China
 
-# 🏃 Specialties and Hobbies
-- ⚽ soccer: National second-class soccer referee
+# 🎽 Specialties and Hobbies
+- I love soccer⚽, badminton🏸, running🏃 and so much more.
+- As a nationally certified second-class soccer referee, I really enjoy refereeing games!
