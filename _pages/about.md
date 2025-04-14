@@ -32,13 +32,13 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 
 # Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="images/zju.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
+    <img src="images/zju.png" alt="School Logo" style="width: 75px; height: auto; margin-right: 15px;">
     <div style="margin: 0;">
-        <h3 style="margin: 0;">IDEA Lab, Zhejiang University, Hangzhou, China</h3>
+        <h3 style="margin: 0;"><a href="https://zju-idea.github.io/" target="_blank">IDEA Lab</a>, Zhejiang University, <span style="font-weight: normal;">Hangzhou, China</span></h3>
         <p style="margin: 0;">Research Intern</p>
         <p style="margin: 0;">Advisor: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank"><strong>Prof. Xunzhao Yin</strong></a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
         <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
-        <p style="margin: 0;">Aug 2024 - Now</p>
+        <p style="margin: 0;">Aug 2024 - Present</p>
     </div>
 </div>
 
