@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanqing Tao (陶汉清)"
-description              : "Junior undergraduate majoring in Microelectronics "
+description              : "Undergraduate @ ZJU ISEE"
 repository               : "hanqing2/hanqing2.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanqing Tao (陶汉清)"
   avatar           : "images/my_photo_test.jpeg"
-  bio              : "Zhejiang University"
+  bio              : 
   location         : "Hangzhou, China"
-  employer         :
+  employer         : "Zhejiang University"
   pubmed           : 
   googlescholar    : 
   email            : "hqtao@zju.edu.cn"
