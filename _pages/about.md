@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a junior undergraduate student majoring in Microelectronics Science and Engineering in [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
+I am a junior undergraduate student majoring in Microelectronics Science and Engineering at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
 I am currently a research intern at [IDEA Lab](https://zju-idea.github.io/) in Hangzhou, China, advised by [**Prof. Xunzhao Yin**](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and [Prof. Cheng Zhuo](https://scholar.google.com/citations?user=-XSbEFAAAAAJ). I am very fortunate to be mentored by Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
 
