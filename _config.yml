@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanqing Tao (陶汉清)"
   avatar           : "images/my_photo_test.jpeg"
-  bio              : 
+  bio              : "Zhejiang University"
   location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "hqtao@zju.edu.cn"
