@@ -32,7 +32,7 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 
 # 🔎 Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="images/zju.png" alt="School Logo" style="width: 80px; height: auto; margin-right: 16px;">
+    <img src="images/zju_logo.png" alt="School Logo" style="width: 80px; height: auto; margin-right: 16px;">
     <div style="margin: 0;">
         <h3 style="margin: 0;">IDEA Lab, Zhejiang University, <span style="font-weight: normal;">Hangzhou, China</span></h3>
         <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Present</em></p>
