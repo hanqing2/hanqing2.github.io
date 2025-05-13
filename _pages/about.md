@@ -19,7 +19,7 @@ redirect_from:
 
 I am a junior undergraduate student majoring in Microelectronics Science and Engineering at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
-I am currently a research intern at [IDEA Lab](https://zju-idea.github.io/) in Hangzhou, China, advised by [**Prof. Xunzhao Yin**](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and [Prof. Cheng Zhuo](https://scholar.google.com/citations?user=-XSbEFAAAAAJ). I am very fortunate to be mentored by Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
+I am currently a research intern at [IDEA Lab](https://zju-idea.github.io/), advised by [**Prof. Xunzhao Yin**](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and [Prof. Cheng Zhuo](https://scholar.google.com/citations?user=-XSbEFAAAAAJ). I am very fortunate to be mentored by Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
 
 My research interests include (1) circuit and architecture design with both CMOS and emerging technologies, and (2) digital, mixed-signal, and mixed-mode cognitive circuit design.
 
@@ -32,10 +32,11 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 
 # 🔎 Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="images/zju_logo.png" alt="School Logo" style="width: 80px; height: auto; margin-right: 16px;">
+    <img src="images/zju_logo.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
     <div style="margin: 0;">
-        <h3 style="margin: 0;">IDEA Lab, Zhejiang University, <span style="font-weight: normal;">Hangzhou, China</span></h3>
+        <h3 style="margin: 0;"><a href="https://zju-idea.github.io/" style="text-decoration: none; color: inherit;">IDEA Lab</a>, Zhejiang University</h3>
         <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Present</em></p>
+        <p style="margin: 0;">Research Focus: Ferroelectric ternary content-addressable memory</p>
         <p style="margin: 0;">Advisors: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank"><strong>Prof. Xunzhao Yin</strong></a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
         <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
     </div>
