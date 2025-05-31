@@ -27,8 +27,8 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 I will participate in the [University of Notre Dame](https://www.nd.edu/)'s [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://scholar.google.com/citations?user=zYI2MtEAAAAJ).
-- *2024.11*: &nbsp;🎉🎉 I am awarded Zhejiang Provincial Government Scholarship!
+- *Mar. 2025*: &nbsp;🎉🎉 I will participate in the [University of Notre Dame](https://www.nd.edu/)'s [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://scholar.google.com/citations?user=zYI2MtEAAAAJ).
+- *Nov. 2024*: &nbsp;🎉🎉 I am awarded Zhejiang Provincial Government Scholarship!
 
 # 🔎 Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -46,12 +46,12 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 - Zhejiang Provincial Government Scholarship, *2024*
 - Zhejiang University Scholarship - Second Prize, *2024*
 - Outstanding students of Zhejiang University, *2023-2024*
-- Third prize of Zhejiang Physics Innovation Competition, *2023.12*
-- Second prize of Chinese Mathematics Competition (CMC) in Zhejiang Province, *2023.11*
+- Third prize of Zhejiang Physics Innovation Competition, *Dec. 2023*
+- Second prize of Chinese Mathematics Competition (CMC) in Zhejiang Province, *Nov. 2023*
 - Zhejiang University Scholarship - Third Prize, *2023*
 
 # 🎓 Education
-- *2022.09 - 2026.06 (expected)*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, China
+- *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, China
 
 # 🎽 Specialties and Hobbies
 - I love soccer⚽, badminton🏸, running🏃 and so much more.
