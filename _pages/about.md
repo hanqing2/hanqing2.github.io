@@ -23,12 +23,13 @@ I am currently a research intern at [IDEA Lab](https://zju-idea.github.io/), adv
 
 My research interests include (1) circuit and architecture design with both CMOS and emerging technologies, and (2) digital, mixed-signal, and mixed-mode cognitive circuit design.
 
-Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
+Feel free to contact me at hqtao2201@gmail.com or hqtao@zju.edu.cn if you'd like to chat!
 
 
 # 🔥 News
-- *Mar. 2025*: &nbsp;🎉🎉 I will participate in the [University of Notre Dame](https://www.nd.edu/)'s [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) in the summer of 2025, under the mentorship of [Prof. Ningyuan Cao](https://scholar.google.com/citations?user=zYI2MtEAAAAJ).
-- *Nov. 2024*: &nbsp;🎉🎉 I am awarded Zhejiang Provincial Government Scholarship!
+- *Jun. 2025*: &nbsp; I will join the [Department of Electronic & Computer Engineering](https://ece.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) as an Undergraduate Visiting Internship Student in Fall 2025, advised by [Prof. Chi-Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui).
+- *Mar. 2025*: &nbsp; I will participate in the [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) at the [University of Notre Dame](https://www.nd.edu/) in Summer 2025, advised by [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
+- *Nov. 2024*: &nbsp;🎉 I am awarded Zhejiang Provincial Government Scholarship!
 
 # 🔎 Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -51,7 +52,7 @@ Feel free to contact me at hqtao@zju.edu.cn if you'd like to chat!
 - Zhejiang University Scholarship - Third Prize, *2023*
 
 # 🎓 Education
-- *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, China
+- *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
 
 # 🎽 Specialties and Hobbies
 - I love soccer⚽, badminton🏸, running🏃 and so much more.
