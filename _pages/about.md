@@ -33,10 +33,20 @@ Feel free to contact me at hqtao2201@gmail.com or hqtao@zju.edu.cn if you'd like
 
 # 🔎 Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="images/nd_logo.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
+    <div style="margin: 0;">
+        <h3 style="margin: 0;"><a href="https://csirlab.nd.edu/" style="text-decoration: none; color: inherit;">CSIR Lab</a>, University of Notre Dame</h3>
+        <p style="margin: 0;">Undergraduate Research Intern, <em>Jul. 2025 - Present</em></p>
+        <p style="margin: 0;">Research Focus: TBA</p>
+        <p style="margin: 0;">Advisor: <a href="https://engineering.nd.edu/faculty/ningyuan-cao/" target="_blank">Prof. Ningyuan Cao</a></p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="images/zju_logo.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://zju-idea.github.io/" style="text-decoration: none; color: inherit;">IDEA Lab</a>, Zhejiang University</h3>
-        <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Present</em></p>
+        <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Mar. 2025</em></p>
         <p style="margin: 0;">Research Focus: Ferroelectric ternary content-addressable memory</p>
         <p style="margin: 0;">Advisors: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank"><strong>Prof. Xunzhao Yin</strong></a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
         <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
@@ -53,6 +63,7 @@ Feel free to contact me at hqtao2201@gmail.com or hqtao@zju.edu.cn if you'd like
 
 # 🎓 Education
 - *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
+- *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, South Bend, IN, U.S.
 
 # 🎽 Specialties and Hobbies
 - I love soccer⚽, badminton🏸, running🏃 and so much more.
