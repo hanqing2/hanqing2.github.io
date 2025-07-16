@@ -33,7 +33,7 @@ Feel free to contact me at hqtao2201@gmail.com or hqtao@zju.edu.cn if you'd like
 
 # 🔎 Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="images/nd_logo.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
+    <img src="images/nd_logo.jpg" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://csirlab.nd.edu/" style="text-decoration: none; color: inherit;">CSIR Lab</a>, University of Notre Dame</h3>
         <p style="margin: 0;">Undergraduate Research Intern, <em>Jul. 2025 - Present</em></p>
