@@ -19,7 +19,7 @@ redirect_from:
 
 I am a junior undergraduate student majoring in Microelectronics Science and Engineering at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
-I am currently a research intern at [IDEA Lab](https://zju-idea.github.io/), advised by [**Prof. Xunzhao Yin**](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and [Prof. Cheng Zhuo](https://scholar.google.com/citations?user=-XSbEFAAAAAJ). I am very fortunate to be mentored by Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
+I am currently a research intern at [CSIR Lab](https://csirlab.nd.edu/), advised by [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/). I am very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
 
 My research interests include (1) circuit and architecture design with both CMOS and emerging technologies, and (2) digital, mixed-signal, and mixed-mode cognitive circuit design.
 
