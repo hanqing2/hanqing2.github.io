@@ -37,8 +37,9 @@ Feel free to contact me at hqtao2201@gmail.com or hqtao@zju.edu.cn if you'd like
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://csirlab.nd.edu/" style="text-decoration: none; color: inherit;">CSIR Lab</a>, University of Notre Dame</h3>
         <p style="margin: 0;">Undergraduate Research Intern, <em>Jul. 2025 - Present</em></p>
-        <p style="margin: 0;">Research Focus: TBA</p>
+        <p style="margin: 0;">Research Focus: Compute-in-memory benchmark simulator for probabilistic AI workloads</p>
         <p style="margin: 0;">Advisor: <a href="https://engineering.nd.edu/faculty/ningyuan-cao/" target="_blank">Prof. Ningyuan Cao</a></p>
+        <p style="margin: 0;">Mentor: <a href="https://scholar.google.com/citations?&user=HW-rGPQAAAAJ" target="_blank">Likai Pei</a></p>
     </div>
 </div>
 
