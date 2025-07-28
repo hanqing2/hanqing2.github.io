@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a junior undergraduate student majoring in Microelectronics Science and Engineering at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
+I am a junior undergraduate student majoring in Microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
 I am currently a research intern at [CSIR Lab](https://csirlab.nd.edu/), advised by [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/). I am very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
 
 My research interests include (1) circuit and architecture design with both CMOS and emerging technologies, and (2) digital, mixed-signal, and mixed-mode cognitive circuit design.
 
-Feel free to contact me at hqtao2201@gmail.com or hqtao@zju.edu.cn if you'd like to chat!
+Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat!
 
 
 # 🔥 News
-- *Jun. 2025*: &nbsp; I will join the [Department of Electronic & Computer Engineering](https://ece.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) as an Undergraduate Visiting Internship Student in Fall 2025, advised by [Prof. Chi-Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui).
+- *Jun. 2025*: &nbsp; I will join the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) as an Undergraduate Visiting Internship Student in Fall 2025, advised by [Prof. Chi-Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui).
 - *Mar. 2025*: &nbsp; I will participate in the [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) at the [University of Notre Dame](https://www.nd.edu/) in Summer 2025, advised by [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
 - *Nov. 2024*: &nbsp;🎉 I am awarded Zhejiang Provincial Government Scholarship!
 
@@ -39,7 +39,7 @@ Feel free to contact me at hqtao2201@gmail.com or hqtao@zju.edu.cn if you'd like
         <p style="margin: 0;">Undergraduate Research Intern, <em>Jul. 2025 - Present</em></p>
         <p style="margin: 0;">Research Focus: Compute-in-memory benchmark simulator for probabilistic AI workloads</p>
         <p style="margin: 0;">Advisor: <a href="https://engineering.nd.edu/faculty/ningyuan-cao/" target="_blank">Prof. Ningyuan Cao</a></p>
-        <p style="margin: 0;">Mentor: <a href="https://scholar.google.com/citations?&user=HW-rGPQAAAAJ" target="_blank">Likai Pei</a></p>
+        <p style="margin: 0;">Mentor: <a href="https://scholar.google.com/citations?user=HW-rGPQAAAAJ" target="_blank">Likai Pei</a></p>
     </div>
 </div>
 
@@ -49,7 +49,7 @@ Feel free to contact me at hqtao2201@gmail.com or hqtao@zju.edu.cn if you'd like
         <h3 style="margin: 0;"><a href="https://zju-idea.github.io/" style="text-decoration: none; color: inherit;">IDEA Lab</a>, Zhejiang University</h3>
         <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Mar. 2025</em></p>
         <p style="margin: 0;">Research Focus: Ferroelectric ternary content-addressable memory</p>
-        <p style="margin: 0;">Advisors: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank"><strong>Prof. Xunzhao Yin</strong></a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
+        <p style="margin: 0;">Advisors: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank">Prof. Xunzhao Yin</a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
         <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
     </div>
 </div>
