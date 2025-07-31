@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a junior undergraduate student majoring in Microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
+I am a junior undergraduate student majoring in microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
 I am currently a research intern at [CSIR Lab](https://csirlab.nd.edu/), advised by [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/). I am very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
 
@@ -63,8 +63,8 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
 - Zhejiang University Scholarship - Third Prize, *2023*
 
 # 🎓 Education
-- *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
-- *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, South Bend, IN, U.S.
+- *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronic Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
+- *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, Notre Dame, IN, U.S.
 
 # 🎽 Specialties and Hobbies
 - I love soccer⚽, badminton🏸, running🏃 and so much more.
