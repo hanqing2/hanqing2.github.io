@@ -21,7 +21,7 @@ I am a junior undergraduate student majoring in microelectronics at the [College
 
 I am currently a research intern at [CSIR Lab](https://csirlab.nd.edu/), advised by [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/). I am very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) from Zhejiang University.
 
-My research interests include (1) circuit and architecture design with both CMOS and emerging technologies, and (2) digital, mixed-signal, and mixed-mode cognitive circuit design.
+My research interests lie in AI hardware and in-memory computing, focusing on (1) circuit and architecture design with both CMOS and emerging technologies, (2) chip design and tape-out, and (3) the design and development of cross-layer benchmark simulators spanning devices, circuits, architectures, algorithms, and applications.
 
 Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat!
 
