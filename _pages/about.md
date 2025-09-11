@@ -74,6 +74,7 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
 
 # 🎓 Education
 - *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronic Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
+- *Sept. 2025 - Dec. 2025*, Undergraduate Visiting Internship Student, The Hong Kong University of Science and Technology, Hong Kong SAR, P.R.C.
 - *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, Notre Dame, IN, U.S.
 
 # 🎽 Specialties and Hobbies
