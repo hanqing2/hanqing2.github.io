@@ -21,7 +21,7 @@ I am a senior undergraduate student majoring in microelectronics at the [College
 
 I am currently a research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), conducting research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
 
-My research interests lie in AI hardware and in-memory computing, focusing on (1) circuit and architecture design with both CMOS and emerging technologies, (2) chip design and tape-out, and (3) the design and development of cross-layer benchmark simulators spanning devices, circuits, architectures, algorithms, and applications.
+My research interests lie in AI hardware and in-memory computing, focusing on (1) circuit and architecture design with both CMOS and emerging technologies, (2) chip design and tape-out, and (3) hardware-software co-design.
 
 Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat!
 
