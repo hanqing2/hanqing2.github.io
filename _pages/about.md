@@ -78,5 +78,5 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
 - *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, Notre Dame, Indiana, U.S.
 
 # 🎽 Specialties and Hobbies
-- I love soccer⚽, badminton🏸, running🏃 and so much more.
+- I love football⚽ (soccer in American English), badminton🏸, running🏃.
 - As a Level II referee certified by the Chinese Football Association (CFA), I really enjoy officiating matches!
