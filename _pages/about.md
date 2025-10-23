@@ -19,7 +19,7 @@ redirect_from:
 
 I am a senior undergraduate student majoring in microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
-I am currently a research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), conducting research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
+I am currently a visiting intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), conducting research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
 
 My research interests lie in AI hardware and in-memory computing, focusing on (1) circuit and architecture design with both CMOS and emerging technologies, (2) digital and mixed-signal circuit design, and (3) hardware-software co-design.
 
@@ -37,8 +37,9 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://sites.google.com/view/vlsi-lab-hkust" style="text-decoration: none; color: inherit;">VLSI Research Lab</a>, The Hong Kong University of Science and Technology</h3>
         <p style="margin: 0;">Undergraduate Visiting Intern, <em>Sept. 2025 - Present</em></p>
-        <p style="margin: 0;">Research Focus: TBA</p>
+        <p style="margin: 0;">Research Focus: Efficient neural network deployment on ML hardware</p>
         <p style="margin: 0;">Advisor: <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui" target="_blank">Prof. Chi Ying Tsui</a></p>
+        <p style="margin: 0;">Mentors: <a href="https://cloud-tian.github.io/" target="_blank">Fengshi Tian</a> and <a href="https://scholar.google.com/citations?user=f4b2Cy0AAAAJ" target="_blank">Jiakun Zheng</a></p>
     </div>
 </div>
 
@@ -46,7 +47,7 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
     <img src="images/nd_logo.jpg" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://csirlab.nd.edu/" style="text-decoration: none; color: inherit;">CSIR Lab</a>, University of Notre Dame</h3>
-        <p style="margin: 0;">Undergraduate Summer Intern, <em>Jul. 2025 - Present</em></p>
+        <p style="margin: 0;">Undergraduate Summer Intern, <em>Apr. 2025 - Aug. 2025</em></p>
         <p style="margin: 0;">Research Focus: Benchmark simulator for probabilistic AI workloads with versatile memory architectures</p>
         <p style="margin: 0;">Advisor: <a href="https://engineering.nd.edu/faculty/ningyuan-cao/" target="_blank">Prof. Ningyuan Cao</a></p>
         <p style="margin: 0;">Mentor: <a href="https://scholar.google.com/citations?user=HW-rGPQAAAAJ" target="_blank">Likai Pei</a></p>
@@ -57,7 +58,7 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
     <img src="images/zju_logo.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://zju-idea.github.io/" style="text-decoration: none; color: inherit;">IDEA Lab</a>, Zhejiang University</h3>
-        <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Mar. 2025</em></p>
+        <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Mar. 2025 & Jul. 2025 - Present</em></p>
         <p style="margin: 0;">Research Focus: Ferroelectric ternary content-addressable memory</p>
         <p style="margin: 0;">Advisors: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank">Prof. Xunzhao Yin</a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
         <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
