@@ -37,7 +37,7 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://sites.google.com/view/vlsi-lab-hkust" style="text-decoration: none; color: inherit;">VLSI Research Lab</a>, The Hong Kong University of Science and Technology</h3>
         <p style="margin: 0;">Undergraduate Visiting Intern, <em>Sept. 2025 - Present</em></p>
-        <p style="margin: 0;">Research Focus: Efficient neural network deployment on ML hardware</p>
+        <p style="margin: 0;">Research Focus: Compute-in-memory chips and edge systems for large-scale AI models</p>
         <p style="margin: 0;">Advisor: <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui" target="_blank">Prof. Chi Ying Tsui</a></p>
         <p style="margin: 0;">Mentors: <a href="https://cloud-tian.github.io/" target="_blank">Fengshi Tian</a> and <a href="https://scholar.google.com/citations?user=f4b2Cy0AAAAJ" target="_blank">Jiakun Zheng</a></p>
     </div>
