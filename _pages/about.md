@@ -25,11 +25,18 @@ My research interests lie in AI hardware and in-memory computing, focusing on (1
 
 Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat!
 
+<span class="anchor" id="news"></span>
 
 # 🔥 News
-- *Jun. 2025*: &nbsp; I will join the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) as an Undergraduate Visiting Internship Student in Fall 2025, advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui).
-- *Mar. 2025*: &nbsp; I will participate in the [iSURE program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) at the [University of Notre Dame](https://www.nd.edu/) in Summer 2025, advised by [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
-- *Nov. 2024*: &nbsp;🎉 I am awarded Zhejiang Provincial Government Scholarship!
+<div style="height:100px; width: fit-content; overflow-y: auto; background:#FFFFFF; padding: 5px;">
+<ul>
+  <li><em>Jun. 2025</em>: &nbsp; I will join the <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a> at <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a> as an Undergraduate Visiting Internship Student in Fall 2025, advised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui">Prof. Chi Ying Tsui</a>.</li>
+  <li><em>Mar. 2025</em>: &nbsp; I will participate in the <a href="https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096">iSURE program</a> at the <a href="https://www.nd.edu/">University of Notre Dame</a> in Summer 2025, advised by <a href="https://engineering.nd.edu/faculty/ningyuan-cao/">Prof. Ningyuan Cao</a>.</li>
+  <li><em>Nov. 2024</em>: &nbsp;🎉 I am awarded Zhejiang Provincial Government Scholarship!</li>
+</ul>
+</div>
+
+<span class="anchor" id="experience"></span>
 
 # 🔎 Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -65,6 +72,8 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
     </div>
 </div>
 
+<span class="anchor" id="honors-and-awards"></span>
+
 # 🎖️ Honors and Awards
 - Zhejiang Provincial Government Scholarship, *2024*
 - Zhejiang University Scholarship - Second Prize, *2024*
@@ -73,10 +82,14 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat
 - Second prize of Chinese Mathematics Competition (CMC) in Zhejiang Province, *Nov. 2023*
 - Zhejiang University Scholarship - Third Prize, *2023*
 
+<span class="anchor" id="education"></span>
+
 # 🎓 Education
 - *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronic Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
 - *Sept. 2025 - Dec. 2025*, Undergraduate Visiting Internship Student, The Hong Kong University of Science and Technology, Hong Kong SAR, P.R.C.
 - *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, Notre Dame, Indiana, U.S.
+
+<span class="anchor" id="specialties-and-hobbies"></span>
 
 # 🎽 Specialties and Hobbies
 - I love football⚽ (soccer in American English), badminton🏸, running🏃.
