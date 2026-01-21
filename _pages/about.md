@@ -19,11 +19,11 @@ redirect_from:
 
 I am a senior undergraduate student majoring in microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
-I am currently a visiting intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), conducting research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
+I am currently a visiting research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), where I am advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am also very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), where I conducted research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
 
-My research interests lie in AI hardware and in-memory computing, focusing on (1) circuit and architecture design with both CMOS and emerging technologies, (2) digital and mixed-signal circuit design, and (3) hardware-software co-design.
+My current research interests include AI chip design, digital compute-in-memory, and hardware–software co-design. I have also gained research experience in mixed-signal circuit design using both CMOS and emerging memory technologies.
 
-Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn if you'd like to chat!
+Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, collaboration, or any related inquiries.
 
 # 🔥 News
 <div style="max-height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF;">
