@@ -28,7 +28,7 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
 # 🔥 News
 <div style="max-height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF;">
 <ul>
-  <li><em>Feb. 2026</em>: &nbsp; One co-authored paper has been accepted by **DAC 2026**, congratulations to all!</li>
+  <li><em>Feb. 2026</em>: &nbsp; One co-authored paper has been accepted by <strong>DAC 2026</strong>, congratulations to all!</li>
   <li><em>Jun. 2025</em>: &nbsp; I will join the <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a> at <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a> as an Undergraduate Visiting Internship Student in Fall 2025, advised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui">Prof. Chi Ying Tsui</a>.</li>
   <li><em>Mar. 2025</em>: &nbsp; I will participate in the <a href="https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096">iSURE program</a> at the <a href="https://www.nd.edu/">University of Notre Dame</a> in Summer 2025, advised by <a href="https://engineering.nd.edu/faculty/ningyuan-cao/">Prof. Ningyuan Cao</a>.</li>
   <li><em>Nov. 2024</em>: &nbsp;🎉 I am awarded Zhejiang Provincial Government Scholarship!</li>
