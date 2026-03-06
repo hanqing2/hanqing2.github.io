@@ -28,6 +28,7 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
 # 🔥 News
 <div style="max-height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF;">
 <ul>
+  <li><em>Feb. 2026</em>: &nbsp; One co-authored paper has been accepted by **DAC 2026**, congratulations to all!</li>
   <li><em>Jun. 2025</em>: &nbsp; I will join the <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a> at <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a> as an Undergraduate Visiting Internship Student in Fall 2025, advised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui">Prof. Chi Ying Tsui</a>.</li>
   <li><em>Mar. 2025</em>: &nbsp; I will participate in the <a href="https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096">iSURE program</a> at the <a href="https://www.nd.edu/">University of Notre Dame</a> in Summer 2025, advised by <a href="https://engineering.nd.edu/faculty/ningyuan-cao/">Prof. Ningyuan Cao</a>.</li>
   <li><em>Nov. 2024</em>: &nbsp;🎉 I am awarded Zhejiang Provincial Government Scholarship!</li>
@@ -69,12 +70,12 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
 </div>
 
 # 🎖️ Honors and Awards
-- Zhejiang Provincial Government Scholarship, *2024*
-- Zhejiang University Scholarship - Second Prize, *2024*
-- Outstanding students of Zhejiang University, *2023-2024*
+- Zhejiang Provincial Government Scholarship, *Academic Year 2023-2024*
+- Zhejiang University Scholarship - Second Prize, *Academic Year 2023-2024*
+- Outstanding students of Zhejiang University, *Academic Year 2022-2023 & 2023-2024*
 - Third prize of Zhejiang Physics Innovation Competition, *Dec. 2023*
 - Second prize of Chinese Mathematics Competition (CMC) in Zhejiang Province, *Nov. 2023*
-- Zhejiang University Scholarship - Third Prize, *2023*
+- Zhejiang University Scholarship - Third Prize, *Academic Year 2022-2023*
 
 # 🎓 Education
 - *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronic Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
@@ -82,5 +83,5 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
 - *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, Notre Dame, Indiana, U.S.
 
 # 🎽 Specialties and Hobbies
-- I love football⚽ (soccer in American English), badminton🏸, running🏃.
+- I love football⚽ (soccer in American English), badminton🏸 and running🏃.
 - As a Level II referee certified by the Chinese Football Association (CFA), I really enjoy officiating matches!
