@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanqing Tao (陶汉清)"
-description              : "Undergraduate @ ZJU ISEE"
+description              : "Undergrad @ ZJU ISEE | Research Intern @ ND & HKUST"
 repository               : "hanqing2/hanqing2.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Hanqing Tao (陶汉清)"
   avatar           : "images/my_photo.jpg"
   bio              : "Zhejiang University"
-  location         : "Hong Kong SAR, China"
+  location         : "Hangzhou, China"
   employer         : 
   pubmed           : 
   googlescholar    : 
