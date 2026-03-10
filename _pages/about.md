@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👨‍🎓 About me
+
 I am a senior undergraduate student majoring in microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
 
 I am currently a visiting research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), where I am advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am also very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), where I conducted research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
