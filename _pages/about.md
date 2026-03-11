@@ -23,7 +23,7 @@ I am a senior undergraduate student majoring in microelectronics at the [College
 
 I am currently a visiting research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), where I am advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am also very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), where I conducted research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
 
-My current research interests include AI chip design, digital compute-in-memory, and hardware–software co-design. I have also gained research experience in mixed-signal circuit design using both CMOS and emerging memory technologies.
+My current research interests include AI chip design, digital compute-in-memory, and hardware–software co-design. I have also gained research experience in mixed-signal circuit design and modeling using both CMOS and emerging memory technologies.
 
 Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, collaboration, or any related inquiries.
 
@@ -70,6 +70,8 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
         <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
     </div>
 </div>
+
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Honors and Awards
 - Zhejiang Provincial Government Scholarship, *Academic Year 2023-2024*
