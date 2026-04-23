@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨‍🎓 About me
 
-I am a senior undergraduate student majoring in microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/).
+I am a senior undergraduate student majoring in microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/), and an incoming MPhil student in the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), commencing in Fall 2026.
 
-I am currently a visiting research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), where I am advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am also very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), where I conducted research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
+I was a visiting research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am also very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), where I conducted research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
 
 My current research interests include AI accelerator design, digital VLSI circuits, and hardware/software co-design. I have also worked on mixed-signal circuit design and modeling with both CMOS and emerging memory technologies.
 
@@ -30,7 +30,8 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
 # 🔥 News
 <div style="max-height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF;">
 <ul>
-  <li><em>Feb. 2026</em>: &nbsp; One co-authored paper has been accepted by <strong>DAC 2026</strong>, congratulations to all!</li>
+  <li><em>Apr. 2026</em>: &nbsp;🎉 I will join [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) as an MPhil student in the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) in Fall 2026. I am sincerely grateful to all who have supported and encouraged me along the way.</li>
+  <li><em>Mar. 2026</em>: &nbsp; One co-authored paper has been accepted by <strong>DAC 2026</strong>. Congratulations to all!</li>
   <li><em>Jun. 2025</em>: &nbsp; I will join the <a href="https://ece.hkust.edu.hk/">Department of Electronic and Computer Engineering</a> at <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a> as an Undergraduate Visiting Internship Student in Fall 2025, advised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui">Prof. Chi Ying Tsui</a>.</li>
   <li><em>Mar. 2025</em>: &nbsp; I will participate in the <a href="https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096">iSURE program</a> at the <a href="https://www.nd.edu/">University of Notre Dame</a> in Summer 2025, advised by <a href="https://engineering.nd.edu/faculty/ningyuan-cao/">Prof. Ningyuan Cao</a>.</li>
   <li><em>Nov. 2024</em>: &nbsp;🎉 I am awarded Zhejiang Provincial Government Scholarship!</li>
@@ -42,7 +43,7 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
     <img src="images/hkust_logo.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://sites.google.com/view/vlsi-lab-hkust" style="text-decoration: none; color: inherit;">VLSI Research Lab</a>, The Hong Kong University of Science and Technology</h3>
-        <p style="margin: 0;">Undergraduate Visiting Intern, <em>Sept. 2025 - Present</em></p>
+        <p style="margin: 0;">Undergraduate Visiting Intern, <em>Sept. 2025 - Dec. 2025</em></p>
         <p style="margin: 0;">Research Focus: Compute-in-memory chips and edge systems for large-scale AI models</p>
         <p style="margin: 0;">Advisor: <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui" target="_blank">Prof. Chi Ying Tsui</a></p>
         <p style="margin: 0;">Mentors: <a href="https://cloud-tian.github.io/" target="_blank">Fengshi Tian</a> and <a href="https://scholar.google.com/citations?user=f4b2Cy0AAAAJ" target="_blank">Jiakun Zheng</a></p>
@@ -64,7 +65,7 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
     <img src="images/zju_logo.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
     <div style="margin: 0;">
         <h3 style="margin: 0;"><a href="https://zju-idea.github.io/" style="text-decoration: none; color: inherit;">IDEA Lab</a>, Zhejiang University</h3>
-        <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Mar. 2025 & Jul. 2025 - Present</em></p>
+        <p style="margin: 0;">Undergraduate Research Intern, <em>Aug. 2024 - Mar. 2025</em></p>
         <p style="margin: 0;">Research Focus: Ferroelectric ternary content-addressable memory</p>
         <p style="margin: 0;">Advisors: <a href="https://scholar.google.com/citations?user=snOTdoIAAAAJ" target="_blank">Prof. Xunzhao Yin</a> and <a href="https://scholar.google.com/citations?user=-XSbEFAAAAAJ" target="_blank">Prof. Cheng Zhuo</a></p>
         <p style="margin: 0;">Mentor: <a href="https://jerry-chandler.github.io/" target="_blank">Yu Qian</a></p>
