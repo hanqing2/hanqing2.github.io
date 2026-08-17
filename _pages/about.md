@@ -90,4 +90,4 @@ Feel free to contact me at htaoaa@connect.ust.hk for discussions, collaborations
 
 # 🎽 Specialties and Hobbies
 - I am passionate about football⚽, badminton🏸 and running🏃.
-- As a Level II referee certified by the Chinese Football Association (CFA), I really enjoy officiating matches! This [article]{https://mp.weixin.qq.com/s/GfOsBYYZJUD7MWepW0GAIg} in Chinese shares some of my experiences and reflections as a football referee.
+- As a Level II referee certified by the Chinese Football Association (CFA), I really enjoy officiating matches! This [article](https://mp.weixin.qq.com/s/GfOsBYYZJUD7MWepW0GAIg) in Chinese shares some of my experiences and reflections as a football referee.
