@@ -19,13 +19,13 @@ redirect_from:
 
 # 👨‍🎓 About me
 
-I am a senior undergraduate student majoring in microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/), [Zhejiang University](https://www.zju.edu.cn/english/), and an incoming MPhil student in the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), commencing in Fall 2026.
+I am a first-year MPhil student in the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I received my bachelor's degree from Zhejiang University in 2026.
 
-I was a visiting research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am also very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), where I conducted research under the mentorship of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
+I was a visiting research intern at the [VLSI Research Lab](https://sites.google.com/view/vlsi-lab-hkust), advised by [Prof. Chi Ying Tsui](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-ying-tsui-eetsui). I am also very fortunate to be advised and mentored by [Prof. Xunzhao Yin](https://scholar.google.com/citations?user=snOTdoIAAAAJ) and Ph.D. candidate [Yu Qian](https://jerry-chandler.github.io/) at Zhejiang University. Previously, I had the rewarding opportunity to spend a summer at the [University of Notre Dame](https://www.nd.edu/), where I conducted research under the guidance of [Prof. Ningyuan Cao](https://engineering.nd.edu/faculty/ningyuan-cao/).
 
-My current research interests include AI accelerator design, digital VLSI circuits, and hardware/software co-design. I have also worked on mixed-signal circuit design and modeling with both CMOS and emerging memory technologies.
+My current research interests lie in AI accelerator design, digital VLSI circuits, and hardware/software co-design. I have also worked on mixed-signal circuit design and modeling with both CMOS and emerging memory technologies.
 
-Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, collaboration, or any related inquiries.
+Feel free to contact me at htaoaa@connect.ust.hk for discussions, collaborations, or any related inquiries.
 
 # 🔥 News
 <div style="max-height:200px; width: fit-content; overflow-y: auto; background:#FFFFFF;">
@@ -75,18 +75,19 @@ Feel free to contact me at htao@nd.edu or hqtao@zju.edu.cn for discussion, colla
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Honors and Awards
+- Outstanding Graduates of Zhejiang University
 - Zhejiang Provincial Government Scholarship, *Academic Year 2023-2024*
 - Zhejiang University Scholarship - Second Prize, *Academic Year 2023-2024*
-- Outstanding students of Zhejiang University, *Academic Year 2022-2023 & 2023-2024*
+- Outstanding Students of Zhejiang University, *Academic Year 2022-2023 & 2023-2024*
 - Third prize of Zhejiang Physics Innovation Competition, *Dec. 2023*
 - Second prize of Chinese Mathematics Competition (CMC) in Zhejiang Province, *Nov. 2023*
 - Zhejiang University Scholarship - Third Prize, *Academic Year 2022-2023*
 
 # 🎓 Education
-- *Aug. 2022 - Jun. 2026 (expected)*, B.Eng. in Microelectronic Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
+- *Sept. 2022 - Jul. 2026*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
 - *Sept. 2025 - Dec. 2025*, Undergraduate Visiting Internship Student, The Hong Kong University of Science and Technology, Hong Kong SAR, P.R.C.
 - *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, Notre Dame, Indiana, U.S.
 
 # 🎽 Specialties and Hobbies
-- I love football⚽ (soccer in American English), badminton🏸 and running🏃.
-- As a Level II referee certified by the Chinese Football Association (CFA), I really enjoy officiating matches!
+- I am passionate about football⚽, badminton🏸 and running🏃.
+- As a Level II referee certified by the Chinese Football Association (CFA), I really enjoy officiating matches! This [article]{https://mp.weixin.qq.com/s/GfOsBYYZJUD7MWepW0GAIg} in Chinese shares some of my experiences and reflections as a football referee.
