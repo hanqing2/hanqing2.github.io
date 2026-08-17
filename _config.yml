@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanqing Tao (陶汉清)"
-description              : "Undergrad @ ZJU ISEE | Research Intern @ ND & HKUST"
+description              : "MPhil student in ECE at HKUST, B.Eng. at ZJU, Research Intern at ND"
 repository               : "hanqing2/hanqing2.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanqing Tao (陶汉清)"
   avatar           : "images/my_photo.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : # "Zhejiang University"
+  location         : "Hong Kong SAR, China"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "htao@nd.edu"
+  email            : "htaoaa@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
