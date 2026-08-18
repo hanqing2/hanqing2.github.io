@@ -84,8 +84,9 @@ Feel free to contact me at htaoaa@connect.ust.hk for discussions, collaborations
 - Zhejiang University Scholarship - Third Prize, *Academic Year 2022-2023*
 
 # 🎓 Education
+- *Sept. 2026 - Jul. 2028 (expected)*, MPhil in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong SAR, P.R.C.
 - *Sept. 2022 - Jul. 2026*, B.Eng. in Microelectronics Science and Engineering, Zhejiang University, Hangzhou, Zhejiang, P.R.C.
-- *Sept. 2025 - Dec. 2025*, Undergraduate Visiting Internship Student, The Hong Kong University of Science and Technology, Hong Kong SAR, P.R.C.
+- *Sept. 2025 - Dec. 2025*, Undergraduate Visiting Internship Student, The Hong Kong University of Science and Technology, Kowloon, Hong Kong SAR, P.R.C.
 - *Jul. 2025 - Aug. 2025*, International Summer Undergraduate Research Experience (iSURE) Program, University of Notre Dame, Notre Dame, Indiana, U.S.
 
 # 🎽 Specialties and Hobbies
