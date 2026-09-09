@@ -38,6 +38,12 @@ Feel free to contact me at htaoaa@connect.ust.hk for discussions, collaborations
 </ul>
 </div>
 
+# 📝 Publication
+
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">DAC 2026</span> **[Probabilistic Memory for Trustworthy Edge Intelligence]()**
+  Likai Pei, Jiahao Zheng, Xueji Zhao, Emilie Ye, Jianbo Liu, Hanqing Tao, Ming-Yen Lee, Ruiyang Qin, Yiyu Shi, Shimeng Yu, X. Sharon Hu and Ningyuan Cao
+  63rd ACM/IEEE Design Automation Conference *(DAC)*, Long Beach, CA, USA, 2026.
+
 # 🔎 Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="images/hkust_logo.png" alt="School Logo" style="width: 100px; height: auto; margin-right: 20px;">
